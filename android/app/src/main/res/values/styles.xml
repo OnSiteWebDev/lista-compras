@@ -1,0 +1,10 @@
+<resources>
+    <color name="dodger_blue">#4682B4</color>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/dodger_blue</item>
+        <item name="android:colorBackground">@color/dodger_blue</item>
+    </style>
+
+</resources>
